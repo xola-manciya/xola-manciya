@@ -60,5 +60,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- START: Medium Posts -->
+<!-- END: Medium Posts -->
+
+Thank you for visiting!
