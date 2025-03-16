@@ -60,7 +60,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Blog Posts :
-<!-- START: Medium Posts -->
-<!-- END: Medium Posts -->
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@patricmanciya/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@patricmanciya/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@patricmanciya/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@patricmanciya/2" alt="Recent Article 2"> 
+
 
 Thank you for visiting!
